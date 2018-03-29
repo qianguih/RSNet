@@ -17,7 +17,7 @@ If you find our work useful in your research, please consider citing:
 
 # Dependencies
 - `python` (tested on python2.7)
-- `PyTorch` (tested on 0.3,0)
+- `PyTorch` (tested on 0.3.0)
 - `cffi`
 - `h5py`
 

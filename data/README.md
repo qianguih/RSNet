@@ -20,7 +20,7 @@ By default, these two commands generate files using data in `Area_5` as testing 
 
 Be default, there will be two new folders `indoor3d_sem_seg_hdf5_data_Area_5_1.0m_0.5s_train` and `indoor3d_sem_seg_hdf5_data_Area_5_1.0m_1.0s_test` containing training and testing files, respectively.
 
-At the end, update the dataset setting in `load_data.py` if neccessary. Leave it alone if using default settings in all steps.
+In the end, update the dataset setting in `load_data.py` if neccessary. Leave it alone if using default settings in all steps.
 
 
 

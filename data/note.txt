@@ -1,7 +1,0 @@
-1. download   Stanford3dDataset_v1.2_Aligned_Version.zip dataset from http://buildingparser.stanford.edu/dataset.html#Download
-
-2. run collect_indoor3d_data.py
-
-3. run gen_indoor3d_h5.py train
-
-4. run gen_indoor3d_h5.py test stride 1
