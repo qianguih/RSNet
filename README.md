@@ -8,12 +8,12 @@ RSNet is a powerful and conceptually simple  network for 3D point cloud segmenta
 # Citation
 If you find our work useful in your research, please consider citing:
 
-@article{huang2018recurrent,
-title={Recurrent Slice Networks for 3D Segmentation on Point Clouds},
-author={Huang, Qiangui and Wang, Weiyue and Neumann, Ulrich},
-journal={arXiv preprint arXiv:1802.04402},
-year={2018}
-}
+        @article{huang2018recurrent,
+            title={Recurrent Slice Networks for 3D Segmentation on Point Clouds},
+            author={Huang, Qiangui and Wang, Weiyue and Neumann, Ulrich},
+            journal={arXiv preprint arXiv:1802.04402},
+            year={2018}
+        }
 
 # Dependencies
 - `python` (tested on python2.7)
