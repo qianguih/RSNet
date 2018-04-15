@@ -1,10 +1,10 @@
-PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.
+Recurrent Slice Networks for 3D Segmentation on Point Clouds
 
-Copyright (c) 2017, Geometric Computation Group of Stanford University
+Copyright (c) 2018, University of Southern California
 
 The MIT License (MIT)
 
-Copyright (c) 2017 Charles R. Qi
+Copyright (c) 2018 Qiangui Huang.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
